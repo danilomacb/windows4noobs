@@ -61,3 +61,4 @@ Após isso, abaixe pela barra de navegação
 e procure pela seguinte opção:
 
 <img src="../imagens/subsistema.png" width="500px">
+Após isso, basta ir na loja da Microsoft e pesquisar pela sua distro, depois, basta iniciar pela própria loja.
