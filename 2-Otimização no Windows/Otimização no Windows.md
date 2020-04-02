@@ -28,7 +28,11 @@ de software adicional
 <img src="../imagens/defrag.png" width="500">
 
 Após isso, pode clicar em 'Install', no final, retornará essa janela
-<img src="../imagens/defrag1.png" width="500">
+
+
+<img src="../imagens/defrag1.png" width="500"> <br>
+
+
 DESMARQUE essa caixinha e clique em Run
 Defraggler
 
@@ -44,7 +48,11 @@ Clique novamente em Opções, Opções novamente e clique em desfragmentar,
 nessa janela, marque a caixinha e digite '1000'(mil) e clique em Ok
 
 Depois vá até a página Saúde ou Health e verifique os seguintes dados
-<img src="../imagens/defrag5.png" width=500>
+
+
+<img src="../imagens/defrag5.png" width=500> <br>
+
+
 Caso onde está escrito Good(Bom), esteja
 escrito outra coisa em amarelo ou vermelho, seu HD certamente está com
 um problema, e na área grande em vermelho, caso qualquer uma das linhas
