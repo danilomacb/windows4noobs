@@ -21,9 +21,11 @@ PowerShell (Admin)".
 
 <img src="..\imagens\shellwin10.png" width="150px">
 
+
 Caso você utilize Windows 7, clique no
 iniciar, pesquise por 'cmd' e clique com o botão direito e execute como
 Administrador.
+
 <img src="..\imagens\shellwin7.png" width="">
 
 
@@ -63,7 +65,9 @@ enter.
 Esse comando repara e restaura arquivos corrompidos ou ausentes do
 sistema operacional e demora cerca de 20-40 minutos.
 
+
 <h5 style="margin-left:25px">1.2 Limpeza de disco do Windows</h5>
+
 
 Para fazer a limpeza inicial de disco, pode ser usada um programa do
 próprio Windows, para iso, pesquise por Limpeza de Disco no barra de
@@ -96,7 +100,9 @@ automaticamente, depois disso, pode abrir o instalador e desmarcar
 qualquer opção de instalação de softwares adicionais que normalmente
 ficam na parte marcada na foto.
 
+
 <img src="..\imagens/ccleaner.png" width="400px">
+
 
 Depois disso, clique em 'Install' e
 aguarde.
@@ -123,7 +129,11 @@ computador, isso ocorre para que os fabricantes de computadores ganhe
 mais dinheiro por venda, e na maioria das vezes, esses programas são
 inúteis e ficam sempre em segundo plano ao ligar o computador,
 consumindo mais memória e deixando seu computador lento.
+
+
 <img src="../imagens/bloatware.png" width="500">
+
+
 Nessa imagem, temos dois testes, onde o
 primeiro mostra o desempenho em games com o computador limpo, sem os
 softwares que acompanham o sistema.
