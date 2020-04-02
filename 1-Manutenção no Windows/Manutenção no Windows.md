@@ -18,6 +18,7 @@ funcionando perfeitamente.
 Para rodar o programa, caso você esteja no WINDOWS 10, clique com o
 botão direito do mouse no menu inciar do Windows e clique em "Windows
 PowerShell (Admin)".
+
 <img src="..\imagens\shellwin10.png" width="150px">
 
 Caso você utilize Windows 7, clique no
@@ -67,6 +68,7 @@ sistema operacional e demora cerca de 20-40 minutos.
 Para fazer a limpeza inicial de disco, pode ser usada um programa do
 próprio Windows, para iso, pesquise por Limpeza de Disco no barra de
 pesquisa.
+
 <img src="..\imagens\limpezadisco.png" width="350px">
 
 Dentro dele, caso você tenha diversos
@@ -93,12 +95,15 @@ e escolha a opção de CCleaner.com e o download vai iniciar
 automaticamente, depois disso, pode abrir o instalador e desmarcar
 qualquer opção de instalação de softwares adicionais que normalmente
 ficam na parte marcada na foto.
+
 <img src="..\imagens/ccleaner.png" width="400px">
+
 Depois disso, clique em 'Install' e
 aguarde.
 
 Caso apareça uma tela como essa:
 <img src="..\imagens/ccleaner1.png" width="400px">
+
 Clique em Decline, após isso, a instalação
 vai terminar e você pode desmarcar a caixinha de "View release notes" e
 clicar em run ccleaner.
