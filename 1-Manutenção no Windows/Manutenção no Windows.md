@@ -107,7 +107,9 @@ ficam na parte marcada na foto.
 Depois disso, clique em 'Install' e
 aguarde.
 
-Caso apareça uma tela como essa:
+Caso apareça uma tela como essa: <br>
+
+
 <img src="..\imagens/ccleaner1.png" width="400px"> <br>
 
 Clique em Decline, após isso, a instalação
