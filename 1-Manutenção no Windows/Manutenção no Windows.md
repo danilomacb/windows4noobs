@@ -108,7 +108,7 @@ Depois disso, clique em 'Install' e
 aguarde.
 
 Caso apareça uma tela como essa:
-<img src="..\imagens/ccleaner1.png" width="400px">
+<img src="..\imagens/ccleaner1.png" width="400px"> <br>
 
 Clique em Decline, após isso, a instalação
 vai terminar e você pode desmarcar a caixinha de "View release notes" e
@@ -118,7 +118,9 @@ Feche qualquer propaganda ou mensagem que aparecer dentro do software e
 vá para "Custom Clean" e clique em Analyze e aguarde.
 
 Quando finalizado, clique em 'Run Cleaner'
-<img src="../imagens/ccleaner2.png" width="400px">
+
+<img src="../imagens/ccleaner2.png" width="400px"> <br>
+
 Após isso, você pode escolher manter ou
 não o Ccleaner em seu computador, podendo desinstalar ele sem problemas.
 
