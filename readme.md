@@ -17,7 +17,7 @@
   4. [Estrutura de pastas](/4-Estrutura%20de%20pastas/Estrutura%20de%20pastas.md)
   5. [Para desenvolvedores](/5-Para%20desenvolvedores/Para%20desenvolvedores.md)
   <hr>
-## Autores
+<h3>Autores</h3>
 
 
 * Vitor Souza (vsaHe4rt) - Web Developer - [Twitter](https://twitter.com/TrueHooha_)
