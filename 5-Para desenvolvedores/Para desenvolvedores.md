@@ -64,7 +64,7 @@ e procure pela seguinte opção:
 Após isso, basta ir na loja da Microsoft e pesquisar pela sua distro, depois, basta iniciar pela própria loja.<br>
 
 
-<h5 style="margin-left:25px">5.1Chocolatey</h5>
+<h5 style="margin-left:25px">5.1 Chocolatey</h5>
 <hr>
 Chocolatey em resumo é um gerenciador de pacotes para Windows, ele foi projetado para ser uma estrutura decentralizada para instalar aplicativos(como se fosse um apt). O Chocolatey é construido pela infraestrutura do NuGet que usa o Powershell.<br>
 
