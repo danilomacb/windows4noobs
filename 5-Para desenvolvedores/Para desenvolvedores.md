@@ -64,20 +64,20 @@ e procure pela seguinte opção:
 Após isso, basta ir na loja da Microsoft e pesquisar pela sua distro, depois, basta iniciar pela própria loja.<br>
 
 
-<h5 style="margin-left:25px">Chocolatey</h5>
+<h5 style="margin-left:25px">5.1Chocolatey</h5>
 <hr>
-Chocolatey em resumo é um gerenciador de pacotes para Windows, ele foi projetado para ser uma estrutura decentralizada para instalar aplicativos(como se fosse um apt). O Chocolatey é construido pela infraestrutura do NuGet que usa o Powershell.
+Chocolatey em resumo é um gerenciador de pacotes para Windows, ele foi projetado para ser uma estrutura decentralizada para instalar aplicativos(como se fosse um apt). O Chocolatey é construido pela infraestrutura do NuGet que usa o Powershell.<br>
 
-Por ser um instalador de pacotes, é necessário iniciar seu Prompt de Comando em modo administrador.
-Principais comandos:
-choco seach "pacote" -> busca por um pacote e versões dele
-choco install "pacote" -> instala um aplicativo
-choco install "pacote" "pacote1" -> instala mais de 1 pacote.(pode ser colado mais de 2)
-choco uninstall "pacote" -> desinstala algum aplicativo
-choco list -localonly -> lista todos os pacotes que foram instalados no computador via choco
-choco upgrade "pacote" -> para atualizar a versão
+Por ser um instalador de pacotes, é necessário iniciar seu Prompt de Comando em modo administrador.<br>
+Principais comandos:<br>
+choco seach "pacote" -> busca por um pacote e versões dele<br>
+choco install "pacote" -> instala um aplicativo<br>
+choco install "pacote" "pacote1" -> instala mais de 1 pacote.(pode ser colado mais de 2)<br>
+choco uninstall "pacote" -> desinstala algum aplicativo<br>
+choco list -localonly -> lista todos os pacotes que foram instalados no computador via choco<br>
+choco upgrade "pacote" -> para atualizar a versão<br>
 
-Caso você não queira usar terminal, é possível utilizar o choco de forma gráfica
-choco install ChocolateyGUI
+Caso você não queira usar terminal, é possível utilizar o choco de forma gráfica<br>
+choco install ChocolateyGUI<br>
 
 Para instalar o Chocolatey,você pode acessar a documentação oficial do programa através desse link [https://chocolatey.org/install#individual]
