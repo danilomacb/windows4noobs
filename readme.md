@@ -20,6 +20,6 @@
 <h3>Autores</h3>
 
 
-* Vitor Souza (vsaHe4rt) - Web Developer - [Twitter](https://twitter.com/vsaHe4rt)
+* Vitor Souza (vsaHe4rt)
 
 <p align="center">Made with He4rt</p>
