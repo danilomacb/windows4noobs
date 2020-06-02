@@ -20,6 +20,6 @@
 <h3>Autores</h3>
 
 
-* Vitor Souza (vsaHe4rt)
+* Vitor
 
 <p align="center">Made with He4rt</p>
